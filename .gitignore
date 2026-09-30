@@ -1,0 +1,11 @@
+# Archivos de trabajo que NO van al repositorio
+Archivos_Peli/
+Logos_Peli/
+Claude outputs/
+_SUBIR_A_NETLIFY/
+*.zip
+*.pdf
+.DS_Store
+Thumbs.db
+node_modules/
+.netlify/
